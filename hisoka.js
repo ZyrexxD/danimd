@@ -23,7 +23,7 @@ const { performance } = require('perf_hooks')
 const { Primbon } = require('scrape-primbon')
 const primbon = new Primbon()
 const { smsg, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, runtime, fetchJson, getBuffer, jsonformat, format, parseMention, getRandom, getGroupAdmins } = require('./lib/myfunc')
-const daniapi = "yourkey" 
+const daniapi = "44wDkjIVX5Up6qXyKrdyC6AgX" 
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
